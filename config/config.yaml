@@ -1,0 +1,5 @@
+port: "8080"
+
+token:
+  ttl_access: 15
+  ttl_refresh: 43200
